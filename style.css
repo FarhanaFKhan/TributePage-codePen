@@ -1,0 +1,29 @@
+<style>
+h1{
+  text-align: center;
+}
+h2{
+        font-style: italic;
+      }
+#image{
+        display: block;
+       max-width:100%;
+        height: auto;
+      }
+      #img-caption{
+        padding-left:300px;
+      }
+@media 
+      #tribute-info{
+        width: 900px;
+        padding: 10px;
+        margin: 10px;
+        text-align: justify;
+        font-size: 16pt;
+        /*background-color: #ffb6c1;*/
+      }
+      body{
+        background-color: #ffb6c1;
+       /* max-width:1000px;*/
+      }
+</style>
